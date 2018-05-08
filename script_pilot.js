@@ -153,7 +153,7 @@ var education = {
     type: 'survey-multi-choice',
     questions: [{
         prompt: "Was ist Ihr h&ouml;chster Bildungsabschluss?",
-        options: ["Kein Schulabschluss", "Grund-/Hauptschulabschluss", "Realschule (Mittlere Reife)", "Gymnasium (Abitur)", "Abgeschlossene Ausbildung", "(Fach-)Hochschule: Bachelor", "(Fach-)Hochschule: Master", "Diplom", "Magister", "Promotion"]
+        options: ["Kein Schulabschluss", "Grund-/Hauptschulabschluss", "Realschule (Mittlere Reife)", "(Fach-)Hochschulreife", "Abgeschlossene Ausbildung", "(Fach-)Hochschule: Bachelor", "(Fach-)Hochschule: Master", "Diplom", "Magister", "Promotion"]
     }]
 };
 
@@ -162,8 +162,8 @@ timeline.push(education);
 var job = {
     type: 'survey-multi-choice',
     questions: [{
-        prompt: "Was ist Ihr höchster Bildungsabschluss?",
-        options: ["Kein Schulabschluss", "Grund-/Hauptschulabschluss", "Realschule (Mittlere Reife)", "Gymnasium (Abitur)", "Abgeschlossene Ausbildung", "(Fach-)Hochschule: Bachelor", "(Fach-)Hochschule: Master", "Diplom", "Magister", "Promotion"]
+        prompt: "Was beschreibt am besten Ihre berufliche Situation?",
+        options: ["Sch&uuml;ler/in", "Auszubildende/r", "Student/in", "Wehrdienst, Bundesfreiwilligendienst oder Freiwilliges Soziales Jahr", "Angestellte/r", "Selbstst&auml;ndig", "Beamter/Beamtin", "In Umschulung", "Mutterschafts-, Erziehungsurlaub, Elternzeit oder sonstige Beurlaubung ", "Arbeitssuchend", "Rentner/in"]
     }]
 };
 
