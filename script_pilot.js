@@ -716,7 +716,7 @@ var resultExampleB3 = {
     type: 'instructions',
     pages: [
         'content',
-        '<div class="instruction"><p>Nun beginnt der eigentlich Versuch. Sie untersuchen dabei mit Unterst&uuml;tzung des automatisierten Scanners 200 weitere Sets auf Dopplungen. Ihr aktueller Punktestand, der dem Unterbehmensgewinn entspricht, und die vergangene Zeit werden Ihnen nun angezeigt.</p></div>'
+        '<div class="instruction"><p>Nun beginnt der eigentlich Versuch. Sie untersuchen dabei mit Unterst&uuml;tzung des automatisierten Scanners 200 weitere Sets auf Dopplungen. Ihr aktueller Punktestand, der dem Unternehmensgewinn entspricht, und die vergangene Zeit werden Ihnen nun angezeigt.</p></div>'
     ],
     show_clickable_nav: true,
     button_label_previous: 'Zur&uuml;ck',
